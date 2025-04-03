@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/lucas-parada-943467321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@lucasparada" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/163XguN5Gi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucasb.parada" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lucasbparada?igsh=MXN5YXVzMWw5NmJ2cQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lucasbparada" height="30" width="40" /></a>
-<a href="https://https://www.youtube.com/@luskzygamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luskzy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@luskzygamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luskzy" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/yXZHG64k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yXZHG64k" height="30" width="40" /></a>
 </p>
 

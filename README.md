@@ -112,12 +112,14 @@
 
   <img
     height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasBParada&theme=chartreuse_dark"
+    src="https://github-readme-stats.vercel.app/api?username=LucasBParada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="stats graph"
   />
 
   <img
     height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasBParada&theme=chartreuse_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBParada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="languages graph"
   />
 
 </div>
@@ -127,18 +129,7 @@
 <div align="center">
 
   <img
-    height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasBParada&theme=chartreuse_dark"
-  />
-
-</div>
-
-###
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=LucasBParada&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"
+    src="https://streak-stats.demolab.com?user=LucasBParada&theme=tokyonight&hide_border=true&background=0D1117"
     height="170"
     alt="streak graph"
   />
@@ -150,7 +141,7 @@
 <div align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=LucasBParada&theme=matrix&no-frame=true&no-bg=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=LucasBParada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
     alt="trophies"
   />
 
@@ -161,7 +152,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"
   />
 
 </div>

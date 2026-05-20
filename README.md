@@ -9,14 +9,6 @@
   />
 </div>
 
-###
-
-<p align="center">
-  Hi, I'm Lucas de Barros Parada, a software developer passionate about technology, modern web development, and turning ideas into code. Fueled by energy drinks and late-night coding sessions.
-</p>
-
-###
-
 <h3 align="center">💻 Languages & Tools</h3>
 
 <div align="center">

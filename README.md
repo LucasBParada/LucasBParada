@@ -4,7 +4,7 @@
 
 <div align="center">
   <img 
-    height="200" 
+    height="200"
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam16aHRuNm05bjZndmdjcm5pZHZheGtveG8wbmRsczQxNHo1MHk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOK5PP5Ol2Hzq/giphy.gif"
   />
 </div>
@@ -20,6 +20,7 @@
 <h3 align="center">💻 Languages & Tools</h3>
 
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
 
@@ -60,6 +61,7 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+
 </div>
 
 ###
@@ -69,7 +71,7 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/lucas-parada-943467321/" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="30"
       alt="linkedin logo"
@@ -77,7 +79,7 @@
   </a>
 
   <a href="https://x.com/lucasba71781900" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
       height="30"
       alt="x logo"
@@ -85,7 +87,7 @@
   </a>
 
   <a href="https://www.facebook.com/lucas.parada" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       height="30"
       alt="facebook logo"
@@ -93,7 +95,7 @@
   </a>
 
   <a href="https://www.instagram.com/lucasbparada/" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       height="30"
       alt="instagram logo"
@@ -109,15 +111,13 @@
 <div align="center">
 
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=LucasBParada&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"
-    alt="stats graph"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasBParada&theme=github_dark"
   />
 
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBParada&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"
-    alt="languages graph"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasBParada&theme=github_dark"
   />
 
 </div>
@@ -125,18 +125,33 @@
 ###
 
 <div align="center">
+
   <img
-    src="https://streak-stats.demolab.com?user=LucasBParada&theme=chartreuse-dark&hide_border=true&background=0D1117"
-    height="150"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasBParada&theme=github_dark"
+  />
+
+</div>
+
+###
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=LucasBParada&theme=chartreuse-dark&hide_border=true"
+    height="165"
     alt="streak graph"
   />
+
 </div>
 
 ###
 
 <div align="center">
+
   <img
     src="https://github-profile-trophy.vercel.app/?username=LucasBParada&theme=matrix&no-frame=true&no-bg=true&margin-w=8"
     alt="trophies"
   />
+
 </div>

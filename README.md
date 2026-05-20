@@ -27,6 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
   <img width="12" />
 
@@ -69,7 +72,7 @@
 
   <a href="https://www.linkedin.com/in/lucas-parada-943467321/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black"
       height="32"
       alt="linkedin logo"
     />
@@ -77,7 +80,7 @@
 
   <a href="https://x.com/lucasba71781900" target="_blank">
     <img
-      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      src="https://img.shields.io/badge/X-39FF14?style=for-the-badge&logo=x&logoColor=black"
       height="32"
       alt="x logo"
     />
@@ -85,7 +88,7 @@
 
   <a href="https://www.facebook.com/lucas.parada" target="_blank">
     <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      src="https://img.shields.io/badge/Facebook-39FF14?style=for-the-badge&logo=facebook&logoColor=black"
       height="32"
       alt="facebook logo"
     />
@@ -93,7 +96,7 @@
 
   <a href="https://www.instagram.com/lucasbparada/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-39FF14?style=for-the-badge&logo=instagram&logoColor=black"
       height="32"
       alt="instagram logo"
     />
